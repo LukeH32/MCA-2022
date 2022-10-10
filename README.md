@@ -11,8 +11,14 @@ When looking into the data that is available for Sultans of Swing, it remains cl
 * Band members involved with the recording 
 * Song lyrics 
 * Identification of album and year released 
+* Writer(s) 
+* Artist(s) 
 
-
+I decided to investigate whether  all of the factors recorded above are included in the other mainstream music platforms - Spotify and Apple Music. The descriptive data results are recorded below. 
+                    Band members | Song Lyrics | Album Identification + Release Year | Writer(s) | Artist(s) |
+           Youtube|
+            Apple |
+          Spotify |
 
 ## WEEK 2
 
