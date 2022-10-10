@@ -7,7 +7,10 @@ Forming in 1977, Dire Straits consisted primarily of David Knopfler (rhythm guit
 
 *Current music data available and the existing challenges that are present*
 
-When looking into the data that is available for Sultans of Swing, it remains clear that there is a wide variety of descriptive, notated, and acoustic data across many social platforms. Taking the example of the social media platform Youtube, there is a considerable amount of descriptive data with regards to the following: *Band members involved with the recording *Song lyrics *Identification of album and year released 
+When looking into the data that is available for Sultans of Swing, it remains clear that there is a wide variety of descriptive, notated, and acoustic data across many social platforms. Taking the example of the social media platform Youtube, there is a considerable amount of descriptive data with regards to the following: 
+* Band members involved with the recording 
+* Song lyrics 
+* Identification of album and year released 
 
 
 
