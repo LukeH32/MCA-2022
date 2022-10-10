@@ -1,5 +1,5 @@
 # Luke's Curation and Analytics Portfolio feat. Dire Straits 
-###### WEEK 1
+## WEEK 1
 
 *A Brief Introduction...*
 
@@ -9,7 +9,7 @@ Forming in 1977, Dire Straits consisted primarily of David Knopfler (rhythm guit
 
 
 
-###### WEEK 2
+## WEEK 2
 
 ## WEEK 3
 
