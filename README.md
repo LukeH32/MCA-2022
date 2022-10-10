@@ -18,7 +18,7 @@ I decided to investigate whether  all of the factors recorded above are included
 Band members | Song Lyrics | Album Identification and Year Released | Writer(s) | Artist(s) 
 -------------|-------------|----------------------------------------|-----------|-----------|
     yes      |  no         |                           yes          |        no |      yes  |
-    no       |     yes     |                      no                |     yes   |        no |   
+   |   
           
            
 
