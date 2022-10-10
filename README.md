@@ -16,8 +16,7 @@ When looking into the data that is available for Sultans of Swing, it remains cl
 
 I decided to investigate whether  all of the factors recorded above are included in the other mainstream music platforms - Spotify and Apple Music. The descriptive data results are recorded below. 
 Band members | Song Lyrics
-
-- - - - - - -| - - - - - - 
+-------------|------------ 
 content cell 1 | content cell 2 
             
           
