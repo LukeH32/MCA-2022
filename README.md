@@ -30,7 +30,9 @@ Acoustic data is furthermore a big presence on the web. Youtube is a very good s
 
 *SULTANS OF SWING IN NOTATION*
 
-This week, the task was to identify a piece of music which we could download and edit in Musescore. I downloaded part of a Sultans of Swing score into PDF format which was then converted into Musescore and 10 bars were edited. I also kept an additional score which was again converted into Musescore but no changes were made to this one and remained unedited. This allowed me to see the differences in the specific notational data clearly between both the edited and unedited scores and it made for an interesting observation to see what elements had been ommitted from Musescore when the PDF was converted into the programme. 
+This week, the task was to identify a piece of music which we could download and edit in Musescore. I downloaded part of a Sultans of Swing score into PDF format which was then converted into Musescore and 10 bars were edited. I also kept an additional score which was again converted into Musescore but no changes were made to this one and remained unedited. This allowed me to see the differences in the specific notational data clearly between both the edited and unedited scores, and it made for an interesting observation to see what elements had been omitted from Musescore when the PDF was converted into the programme. (INSERT ORIGINAL PDF, UNEDITED SCORE - PDF? EDITED SCORE EITHER PDF OR MUSESCORE)
+
+
 ## WEEK 3
 [Sultans of Swing score/verovio](https://lukeh32.github.io/MCA-2022/verovio.html)
 
