@@ -24,7 +24,7 @@ Spotify N            Y                  Y - but no release date           N     
 There is also a wide range of notated data for the song existing online which includes various transcripts. As well as this, there is also a compilation book which contains a big majority of Dire Straits' hits available at: 
 
 
-Acoustic data is furthermore a big presence on the web. Youtube is a very good source for this with evidence of numberous live performances of the song, and additionally, individuals doing 'cover versions' too. Arguably one of the best live performances ever done can be seen on Youtube here:  
+Acoustic data is furthermore a big presence on the web. Youtube is a very good source for this with evidence of numberous live performances of the song, and additionally, individuals doing 'cover versions' too. Arguably one of the best live performances ever done can be seen on Youtube here:[Sultans of Swing Alchemy Live](https://www.youtube.com/watch?v=8Pa9x9fZBtY)
 
 ## WEEK 2
 
