@@ -14,11 +14,11 @@ When looking into the data that is available for Sultans of Swing, it remains cl
 * Writer(s) 
 * Artist(s) 
 
-I decided to investigate whether  all of the factors recorded above are included in the other mainstream music platforms - Spotify and Apple Music. The descriptive data results are recorded below. 
+I decided to investigate whether  all of the factors recorded above are included in the other mainstream music platforms - Spotify and Apple Music. The descriptive data results are recorded below. \*Apple (A) \*Spotify (S)
 Band members | Song Lyrics | Album Identification and Year Released | Writer(s) | Artist(s) 
 -------------|-------------|----------------------------------------|-----------|-----------|
-          |           |                                    |         |        |
-           |          |                                      |       |       |
+                                                              
+                                                                   
           
            
 
