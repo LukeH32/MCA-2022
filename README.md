@@ -15,8 +15,8 @@ When looking into the data that is available for Sultans of Swing, it remains cl
 * Artist(s) 
 
 I decided to investigate whether  all of the factors recorded above are included in the other mainstream music platforms - Spotify and Apple Music. The descriptive data results are recorded below. Apple data corresponds to the first line and Spotify to the second.  (Yes = Y   No= N)  
-|Band members | Song Lyrics | Album Identification and Year Released | Writer(s) | Artist(s)|                                                                            |-------------|-------------|----------------------------------------|-----------|----------|
-|N            |N            |                          Y             |   N       |     Y    |                                                            
+Band members | Song Lyrics | Album Identification and Year Released | Writer(s) | Artist(s)                                                                            -------------|-------------|----------------------------------------|-----------|----------
+                                                     
 
 
 There is also a wide range of notated data for the song existing online which includes various transcripts. As well as this, there is also a compilation book which contains a big majority of Dire Straits' hits available at: [musicroom.com](https://www.musicroom.com/dire-straits-sultans-of-swing-very-best-of-piano-musdg70826)
