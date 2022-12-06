@@ -6,7 +6,9 @@
       <fileDesc>
          <titleStmt>
             <title>NEW Sultans of Swing Edited </title>
-            <respStmt />
+            <respStmt>
+               <resp>Composed by:</resp>
+               <persName role="artist">Dire Straits</persName>
          </titleStmt>
          <pubStmt><date isodate="2022-10-13" type="encoding-date">2022-10-13</date>
          </pubStmt>
