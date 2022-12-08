@@ -60,6 +60,20 @@ This week, with the help of software programmes music21 and Python notebook, we 
 ## WEEK 7
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## WEEK 8 
 
 ![Sultans of Swing Studio Version spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Studio%20Version%20Spectogram.png)
