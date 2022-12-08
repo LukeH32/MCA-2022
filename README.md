@@ -65,15 +65,6 @@ This week, with the help of software programmes music21 and Python notebook, we 
 
 
 
-
-
-
-
-
-
-
-
-
 ## WEEK 8 
 
 ![Sultans of Swing Studio Version spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Studio%20Version%20Spectogram.png)
@@ -82,12 +73,10 @@ Sultans of Swing Studio Version Spectogram
 Sultans of Swing Studio Version Waveform 
 
 
-
 ![Sultans of Swing Alchemy Live spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Alchemy%20Live%20Spectogram.png)
 Sultans of Swing Alchemy Live Spectogram
 ![Sultans of Swing Alchemy Live waveform](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Alchemy%20Live%20Waveform.png)
 Sultans of Swing Alchemy Live Waveform 
-
 
 
 ![Dire Straits Romeo and Juliet spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Dire%20Straits%20Romeo%20and%20Juliet%20Spectogram.png)
