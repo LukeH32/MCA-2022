@@ -36,9 +36,7 @@ Acoustic data is furthermore a big presence on the web. Youtube is a very good s
 This week, the task was to identify a piece of music which we could download and edit in Musescore. I downloaded part of a Sultans of Swing score into PDF format which was then converted into Musescore and 10 bars were edited. I also kept an additional score which was again converted into Musescore but no changes were made to this one and remained unedited. This allowed me to see the differences in the specific notational data clearly between both the edited and unedited scores, and it made for an interesting observation to see what elements had been omitted from Musescore when the PDF was converted into the programme.
 
 ![Sultans of Swing Original Score](https://github.com/LukeH32/MCA-2022/blob/master/data/sultans%20of%20swing%20orginal.png)
-
 ![Sultans of Swing Unedited Score](https://github.com/LukeH32/MCA-2022/blob/master/data/sultansofswing_unedited.png)
-
 ![Sultans of Swing Edited Score](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Edited%20Score%20.png)
 
 
