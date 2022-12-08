@@ -57,5 +57,8 @@ This week, with the help of software programmes music21 and Python notebook, we 
 
 ![Piano Roll Graph](https://github.com/LukeH32/MCA-2022/blob/master/data/Week%204%20Graph%20.png)
 
+## WEEK 7
 
+
+## WEEK 8 
 
