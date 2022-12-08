@@ -13,6 +13,15 @@
          </titleStmt>
          <pubStmt><date isodate="2022-10-13" type="encoding-date">2022-10-13</date>
          </pubStmt>
+         <sourceDesc>
+            <source>
+               <bibl>
+                  <genre>
+                    Rock 
+                 </genre>
+               </bibl>
+            </source>
+       </sourceDesc>  
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-b70fwl">
          <appInfo xml:id="appinfo-1yve3f1">
