@@ -37,8 +37,9 @@ This week, the task was to identify a piece of music which we could download and
 
 ![Sultans of Swing Original Score](https://github.com/LukeH32/MCA-2022/blob/master/data/sultans%20of%20swing%20orginal.png)
 
-(INSERT ORIGINAL PDF, UNEDITED SCORE - PDF? EDITED SCORE EITHER PDF OR MUSESCORE)
+![Sultans of Swing Unedited Score](https://github.com/LukeH32/MCA-2022/blob/master/data/sultansofswing_unedited.png)
 
+![Sultans of Swing Edited Score](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Edited%20Score%20.png)
 
 
 ## WEEK 3 
