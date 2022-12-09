@@ -76,6 +76,8 @@ This week, with the help of software programmes music21 and Python notebook, we 
 
 ## WEEK 8 
 
+This week, we started the process of extracting metadata from raw metadata, through the use of software Sonic Visualizer. We chose 3 audio tracks which related to our theme and these were downloaded. With the tracks, each one was run through Sonic Visualizer and a Spectogram and Waveform analysis of each track was generated. The results of each track have been recorded below: 
+
 ![Sultans of Swing Studio Version spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Studio%20Version%20Spectogram.png)
 Sultans of Swing Studio Version Spectogram 
 ![Sultans of Swing Studio Version Waveform](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Studio%20Version%20Waveform.png)
@@ -95,6 +97,7 @@ Dire Straits Romeo and Juliet Waveform
 
 
 ## WEEK 9
+
 
 SULTANS OF SWING ORIGINAL VERSION - (SHOWING SPECTOGRAM, MFCC AND CHROMAGRAM) 
 ![Sultans of Swing Original Version Spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Sultans%20of%20Swing%20Original%20Version%20Spectogram%20image%20file.png)
