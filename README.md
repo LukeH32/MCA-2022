@@ -95,5 +95,19 @@ Mel Frequency Cepstral Coefficients (MFCC)
 ![Sultans of Swing Original Version Chromagram](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Sultans%20of%20Swing%20Original%20Version%20Chromagram%20image%20file.png)
 Chromagram 
 
+SULTANS OF SWING ALCHEMY LIVE 
+![Sultans of Swing Alchemy Live Spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Sultans%20of%20Swing%20Alchemy%20Live%20Spectogram%20image%20file.png)
+Spectogram 
+![Sultans of Swing Alchemy Live Mel Frequency Cepstral Coefficients](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Sultans%20of%20Swing%20Alchemy%20Live%20MFCC%20image%20file.png) 
+Mel Frequency Cepstral Coefficients (MFCC) 
+![Sultans of Swing Alchemy Live Chromagram](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Sultans%20of%20Swing%20Alchemy%20Live%20Chromagram%20image%20file.png)
+Chromagram 
 
+DIRE STRAITS ROMEO AND JULIET  
+![Dire Straits Romeo & Juliet Spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Dire%20Straits%20Romeo%20and%20Juliet%201980%20Spectogram%20image%20file.png)
+Spectogram 
+![Dire Straits Romeo & Juliet Mel Frequency Cepstral Coefficients](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Dire%20Straits%20Romeo%20and%20Juliet%201980%20Mel%20Frequency%20Cepstral%20Coefficients%20(MFCC)%20image%20file.png)
+Mel Frequency Cepstral Coefficients (MFCC) 
+![Dire Straits Romeo & Juliet Chromagram](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Dire%20Straits%20Romeo%20and%20Juliet%201980%20Chromagram%20image.png)
+Chromagram 
 
