@@ -85,5 +85,14 @@ Dire Straits Romeo and Juliet Spectogram
 Dire Straits Romeo and Juliet Waveform 
 
 
+## WEEK 9
+
+
+![Sultans of Swing Original Version Spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Sultans%20of%20Swing%20Original%20Version%20Spectogram%20image%20file.png)
+Sultans of Swing Original Version Spectogram
+![Sultans of Swing Original Version Mel Frequency Cepstral Coefficients](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Sultans%20of%20Swing%20Original%20Version%20MFCC%20image%20file.png)
+Sultans of Swing Original Version Mel Frequency Cepstral Coefficients (MFCC) 
+![Sultans of Swing Original Version Chromagram](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Sultans%20of%20Swing%20Original%20Version%20Chromagram%20image%20file.png)
+Sultans of Swing Original Version Chromagram 
 
 
