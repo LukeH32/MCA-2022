@@ -29,6 +29,8 @@ There is also a wide range of notated data for the song existing online which in
 
 Acoustic data is furthermore a big presence on the web. Youtube is a very good source for this with evidence of numerous live performances of the song, and additionally, individuals doing 'cover versions' too. Arguably one of the best live performances ever done can be seen on Youtube here: [Sultans of Swing Alchemy Live](https://www.youtube.com/watch?v=8Pa9x9fZBtY)
 
+Certainly howver, there are challenges in the field when locating music data. One being, that the access to certain tracks of music (including Sultans of Swing), can be restricted by music platforms requiring accounts that pay financially towards using their service: (such as in the case of Spotify Premium, which grants users free to access to unlimited music while paying a monthly fee. Similarly, with the distribution of a chosen music track, it can be hard to share songs due to the copyright laws that belong to the owner/company of the particular track and therefore restrict the user from interacting with the audio material.  
+
 ## WEEK 2
 
 *SULTANS OF SWING IN NOTATION*
