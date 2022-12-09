@@ -120,3 +120,7 @@ Mel Frequency Cepstral Coefficients (MFCC)
 ![Dire Straits Romeo & Juliet Chromagram](https://github.com/LukeH32/MCA-2022/blob/master/data/Wk%209%20Dire%20Straits%20Romeo%20and%20Juliet%201980%20Chromagram%20image.png)
 Chromagram 
 
+
+
+## WEEK 10 
+
