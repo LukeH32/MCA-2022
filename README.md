@@ -43,11 +43,12 @@ This week, the task was to identify a piece of music which we could download and
 
 Original Score 
 
-![sultans of swing unedited Score](https://github.com/LukeH32/MCA-2022/blob/master/data/sultansofswing_unedited.png)
+![sultansofswing_unedited](https://user-images.githubusercontent.com/115159184/206925052-70bb2aa7-cba2-421a-a7e3-b390032c5c68.png)
+
 
 The Unedited Original Score having been converted into Musescore and no edits made.
 
-![Sultans of Swing Edited Score](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Edited%20Score%20.png)
+
 
 The Edited Score, with the elements included from what the unedited score missed out in the convesion. 
 
