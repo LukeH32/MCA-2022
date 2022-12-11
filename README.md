@@ -46,6 +46,7 @@ Original Score
 
 The Unedited Original Score having been converted into Musescore and no edits made.
 
+![Sultans of Swing Edited Score ](https://user-images.githubusercontent.com/115159184/206925727-a4096559-b9c8-42dc-8b05-ba58026214b4.png)
 
 
 The Edited Score, with the elements included from what the unedited score missed out in the convesion. 
