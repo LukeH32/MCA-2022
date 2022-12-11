@@ -40,16 +40,13 @@ This week, the task was to identify a piece of music which we could download and
 
 ![sultans of swing orginal](https://user-images.githubusercontent.com/115159184/206924980-d1e8e5cd-072d-4291-8fc5-1521bf464775.png)
 
-
 Original Score 
 
 ![sultansofswing_unedited](https://user-images.githubusercontent.com/115159184/206925052-70bb2aa7-cba2-421a-a7e3-b390032c5c68.png)
 
-
 The Unedited Original Score having been converted into Musescore and no edits made.
 
-![Sultans of Swing Edited Score ](https://user-images.githubusercontent.com/115159184/206925189-2bf36189-7498-4c7f-86d3-bd4275de33c3.png)
-
+![Sultans of Swing Edited Score ](https://user-images.githubusercontent.com/115159184/206925313-0c371bea-d7f7-4ee0-8cd9-d23fb457ef46.png)
 
 The Edited Score, with the elements included from what the unedited score missed out in the convesion. 
 
