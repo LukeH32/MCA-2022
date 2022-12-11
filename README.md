@@ -38,7 +38,7 @@ Certainly howver, there are challenges in the field when locating music data. On
 
 This week, the task was to identify a piece of music which we could download and edit in Musescore. I downloaded part of a Sultans of Swing score into PDF format which was then converted into Musescore and 10 bars were edited. I also kept an additional score which was again converted into Musescore but no changes were made to this one and remained unedited. This allowed me to see the differences in the specific notational data clearly between both the edited and unedited scores, and it made for an interesting observation to see what elements had been omitted from Musescore when the PDF was converted into the programme.
 
-![sultans of swing orginal](https://user-images.githubusercontent.com/115159184/206924198-3195c459-dd22-4d6f-8fa1-83b1badc5bad.png)
+![sultans of swing orginal](https://user-images.githubusercontent.com/115159184/206924980-d1e8e5cd-072d-4291-8fc5-1521bf464775.png)
 
 
 Original Score 
