@@ -42,7 +42,7 @@ This week, the task was to identify a piece of music which we could download and
 
 Original Score 
 
-![Sultans of Swing Unedited Score](https://github.com/LukeH32/MCA-2022/blob/master/data/sultansofswing_unedited.png)
+![sultans of swing unedited Score](https://github.com/LukeH32/MCA-2022/blob/master/data/sultansofswing_unedited.png)
 
 The Unedited Original Score having been converted into Musescore and no edits made.
 
