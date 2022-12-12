@@ -128,9 +128,11 @@ Chromagram
 
 
 ![Wk9 Alchemylive](https://user-images.githubusercontent.com/115159184/207053231-6cc0f848-484f-45fd-9d15-c3ed328cb6db.png)
+Sultans of Swing Alchemy Live 
 ![Wk9 Originalversion](https://user-images.githubusercontent.com/115159184/207053256-a7f1a60c-1480-47cc-bab4-f9c4f0a6d029.png)
+Sultans of Swing Original Version 
 ![Wk 9 Romeo analysis](https://user-images.githubusercontent.com/115159184/207053300-30be645b-b773-480d-8cfb-54ffac3937c2.png)
-
+Dire Straits Romeo and Juliet 
 
 ## WEEK 10 
 
