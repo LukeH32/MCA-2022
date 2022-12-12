@@ -68,11 +68,12 @@ This week, with the help of software programmes music21 and Python notebook, we 
 <img width="368" alt="Week 4 Graph " src="https://user-images.githubusercontent.com/115159184/207044633-562c86a9-dca8-4148-99c3-f7feb9149d90.png">
 
 
+## WEEK 5
+
+<img width="1216" alt="MEI Code " src="https://user-images.githubusercontent.com/115159184/207059960-448a89dd-8deb-4ee5-944e-14c78ed61708.png">
+
+
 ## WEEK 7
-
-
-
-
 
 
 
