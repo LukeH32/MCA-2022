@@ -61,9 +61,9 @@ This week's task was primarily based on converting a MusicXML file of our chosen
 
 This week, with the help of software programmes music21 and Python notebook, we generated a music analysis of our chosen pieces for our dataset portfolio. This was done using a jSymbolic analysis and we selected key features that would be useful to observe and analyse once the data had been curated in this way. The graphs below reflect the data found:
 
-![scatter plot](https://github.com/LukeH32/MCA-2022/blob/master/data/Week%204%20Scatter%20plot%20.png)
+<img width="369" alt="Week 4 Scatter plot " src="https://user-images.githubusercontent.com/115159184/207051154-4d77c080-0cc7-4fe5-ad2c-ad4260d9fe53.png">
 
-![note quarter length by pitch](https://github.com/LukeH32/MCA-2022/blob/master/data/Week%204%20Note%20quarter%20length%20by%20pitch%20.png)
+<img width="585" alt="Week 4 Note quarter length by pitch " src="https://user-images.githubusercontent.com/115159184/207051120-1b0b7982-8700-44cb-8bec-cf92dd767111.png">
 
 <img width="368" alt="Week 4 Graph " src="https://user-images.githubusercontent.com/115159184/207044633-562c86a9-dca8-4148-99c3-f7feb9149d90.png">
 
@@ -80,21 +80,22 @@ This week, with the help of software programmes music21 and Python notebook, we 
 
 This week, we started the process of extracting metadata from raw metadata, through the use of software Sonic Visualizer. We chose 3 audio tracks which related to our theme and these were downloaded. With the tracks, each one was run through Sonic Visualizer and a Spectogram and Waveform analysis of each track was generated. The results of each track have been recorded below: 
 
-![Sultans of Swing Studio Version spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Studio%20Version%20Spectogram.png)
+
+![Sultans of Swing Studio Version Spectogram](https://user-images.githubusercontent.com/115159184/207051359-e060c6e7-aea7-4e6a-bc31-6de12031b8b8.png)
 Sultans of Swing Studio Version Spectogram 
-![Sultans of Swing Studio Version Waveform](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Studio%20Version%20Waveform.png)
+![Sultans of Swing Studio Version Waveform](https://user-images.githubusercontent.com/115159184/207051437-2493257e-95c7-4878-8890-4477070fb1fc.png) 
 Sultans of Swing Studio Version Waveform 
 
 
-![Sultans of Swing Alchemy Live spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Alchemy%20Live%20Spectogram.png)
+![Sultans of Swing Alchemy Live Spectogram](https://user-images.githubusercontent.com/115159184/207051744-5595b894-bcfe-47ee-ad91-aa2d8a2cacb6.png)
 Sultans of Swing Alchemy Live Spectogram
-![Sultans of Swing Alchemy Live waveform](https://github.com/LukeH32/MCA-2022/blob/master/data/Sultans%20of%20Swing%20Alchemy%20Live%20Waveform.png)
+![Sultans of Swing Alchemy Live Waveform](https://user-images.githubusercontent.com/115159184/207051789-b077826d-cfd4-440e-af2a-e7b5b9a36ea9.png)
 Sultans of Swing Alchemy Live Waveform 
 
 
-![Dire Straits Romeo and Juliet spectogram](https://github.com/LukeH32/MCA-2022/blob/master/data/Dire%20Straits%20Romeo%20and%20Juliet%20Spectogram.png)
+![Dire Straits Romeo and Juliet Spectogram](https://user-images.githubusercontent.com/115159184/207051873-bf974c42-ad2a-4309-8e47-5f2bcfbaca3e.png)
 Dire Straits Romeo and Juliet Spectogram
-![Dire Straits Romeo and Juliet waveform](https://github.com/LukeH32/MCA-2022/blob/master/data/Dire%20Straits%20Romeo%20and%20Juliet%20Waveform.png)
+![Dire Straits Romeo and Juliet Waveform](https://user-images.githubusercontent.com/115159184/207051957-3ef22afe-2df6-4e68-a803-3cdacf8585d0.png)
 Dire Straits Romeo and Juliet Waveform 
 
 
