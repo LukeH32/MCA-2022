@@ -61,7 +61,11 @@ This week's task was primarily based on converting a MusicXML file of our chosen
 
 This week, with the help of software programmes music21 and Python notebook, we generated a music analysis of our chosen pieces for our dataset portfolio. This was done using a jSymbolic analysis and we selected key features that would be useful to observe and analyse once the data had been curated in this way. The graphs below reflect the data found:
 
-![Week 4 Scatter plot](https://github.com/LukeH32/MCA-2022/blob/master/data/Week%204%20Scatter%20plot%20.png)
+![scatter plot](https://github.com/LukeH32/MCA-2022/blob/master/data/Week%204%20Scatter%20plot%20.png)
+
+![note quarter length by pitch](https://github.com/LukeH32/MCA-2022/blob/master/data/Week%204%20Note%20quarter%20length%20by%20pitch%20.png)
+
+![week 4 graph](https://github.com/LukeH32/MCA-2022/blob/master/data/Week%204%20Graph%20.png)
 
 ## WEEK 7
 
