@@ -61,7 +61,7 @@ This week's task was primarily based on converting a MusicXML file of our chosen
 
 This week, with the help of software programmes music21 and Python notebook, we generated a music analysis of our chosen pieces for our dataset portfolio. This was done using a jSymbolic analysis and we selected key features that would be useful to observe and analyse once the data had been curated in this way. The graphs below reflect the data found:
 
- <img width="369" alt="Week 4 Scatter plot " src="https://user-images.githubusercontent.com/115159184/207041203-3823661e-c5ae-4fc4-9cb4-d303855b4277.png">
+![Week 4 Scatter Plot](https://user-images.githubusercontent.com/115159184/207041203-3823661e-c5ae-4fc4-9cb4-d303855b4277.png)
 
 
 ## WEEK 7
