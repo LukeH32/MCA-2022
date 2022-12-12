@@ -74,7 +74,7 @@ This week, with the help of software programmes music21 and Python notebook, we 
 
 ## WEEK 7
 
-
+https://lukeh32.github.io/MCA-2022/sultans%20of%20swing%20meta.html
 
 ## WEEK 8 
 
