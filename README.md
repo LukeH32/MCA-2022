@@ -65,7 +65,8 @@ This week, with the help of software programmes music21 and Python notebook, we 
 
 ![note quarter length by pitch](https://github.com/LukeH32/MCA-2022/blob/master/data/Week%204%20Note%20quarter%20length%20by%20pitch%20.png)
 
-![week 4 graph](https://github.com/LukeH32/MCA-2022/blob/master/data/Week%204%20Graph%20.png)
+<img width="368" alt="Week 4 Graph " src="https://user-images.githubusercontent.com/115159184/207044633-562c86a9-dca8-4148-99c3-f7feb9149d90.png">
+
 
 ## WEEK 7
 
