@@ -54,7 +54,7 @@ The Edited Score, with the elements included from what the unedited score missed
 
 This week's task was primarily based on converting a MusicXML file of our chosen piece into the encoding standard known as MEI (Music Encoding Initiative). The score can be viewed with the link provided below here shown through the lense of Verovio:
 
-[Sultans of Swing score/verovio](https://lukeh32.github.io/MCA-2022/verovio.html)
+https://lukeh32.github.io/MCA-2022/verovio.html
 
 
 ## WEEK 4    
