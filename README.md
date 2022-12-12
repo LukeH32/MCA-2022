@@ -56,7 +56,6 @@ This week's task was primarily based on converting a MusicXML file of our chosen
 
 https://www.verovio.org/mei-viewer.xhtml?musicxml=true&local=true
 
-
 ## WEEK 4    
 
 This week, with the help of software programmes music21 and Python notebook, we generated a music analysis of our chosen pieces for our dataset portfolio. This was done using a jSymbolic analysis and we selected key features that would be useful to observe and analyse once the data had been curated in this way. The graphs below reflect the data found:
