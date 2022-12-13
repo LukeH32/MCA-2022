@@ -1,4 +1,4 @@
-# :rocket: Luke's Curation and Analytics Portfolio feat. Dire Straits :rocket:
+# 🚀Luke's Curation and Analytics Portfolio feat. Dire Straits🚀 
 ## WEEK 1
 
 *A BRIEF INTRODUCTION...*
