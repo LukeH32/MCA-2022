@@ -78,23 +78,23 @@ https://lukeh32.github.io/MCA-2022/sultans%20of%20swing%20meta.html
 
 ## WEEK 8 
 
-This week, we started the process of extracting metadata from raw metadata, through the use of software Sonic Visualizer. We chose 3 audio tracks which related to our theme and these were downloaded. With the tracks, each one was run through Sonic Visualizer and a Spectogram and Waveform analysis of each track was generated. The results of each track have been recorded below: 
+This week, we started the process of extracting metadata from raw metadata, through the use of software Sonic Visualizer. We chose 3 audio tracks which related to our theme and these were downloaded. With the tracks, each one was run through Sonic Visualizer and a Spectrogram and Waveform analysis of each track was generated. The results of each track have been recorded below: 
 
 
 ![Sultans of Swing Studio Version Spectogram](https://user-images.githubusercontent.com/115159184/207051359-e060c6e7-aea7-4e6a-bc31-6de12031b8b8.png)
-Sultans of Swing Studio Version Spectogram 
+Sultans of Swing Studio Version Spectrogram 
 ![Sultans of Swing Studio Version Waveform](https://user-images.githubusercontent.com/115159184/207051437-2493257e-95c7-4878-8890-4477070fb1fc.png) 
 Sultans of Swing Studio Version Waveform 
 
 
 ![Sultans of Swing Alchemy Live Spectogram](https://user-images.githubusercontent.com/115159184/207051744-5595b894-bcfe-47ee-ad91-aa2d8a2cacb6.png)
-Sultans of Swing Alchemy Live Spectogram
+Sultans of Swing Alchemy Live Spectrogram
 ![Sultans of Swing Alchemy Live Waveform](https://user-images.githubusercontent.com/115159184/207051789-b077826d-cfd4-440e-af2a-e7b5b9a36ea9.png)
 Sultans of Swing Alchemy Live Waveform 
 
 
 ![Dire Straits Romeo and Juliet Spectogram](https://user-images.githubusercontent.com/115159184/207051873-bf974c42-ad2a-4309-8e47-5f2bcfbaca3e.png)
-Dire Straits Romeo and Juliet Spectogram
+Dire Straits Romeo and Juliet Spectrogram
 ![Dire Straits Romeo and Juliet Waveform](https://user-images.githubusercontent.com/115159184/207051957-3ef22afe-2df6-4e68-a803-3cdacf8585d0.png)
 Dire Straits Romeo and Juliet Waveform 
 
@@ -102,7 +102,7 @@ Dire Straits Romeo and Juliet Waveform
 ## WEEK 9
 
 
-SULTANS OF SWING ORIGINAL VERSION - (SHOWING SPECTOGRAM, MFCC AND CHROMAGRAM) 
+SULTANS OF SWING ORIGINAL VERSION - (SHOWING SPECTROGRAM, MFCC AND CHROMAGRAM) 
 ![Wk 9 Sultans of Swing Original Version Spectogram image file](https://user-images.githubusercontent.com/115159184/207052321-fd6ff937-b04d-4c98-9f15-6de3296d7dac.png)
 Spectogram
 ![Wk 9 Sultans of Swing Original Version MFCC image file](https://user-images.githubusercontent.com/115159184/207052389-633300bc-e3d4-4c3f-a4f5-de282ed3276d.png)
@@ -112,7 +112,7 @@ Chromagram
 
 SULTANS OF SWING ALCHEMY LIVE 
 ![Wk 9 Sultans of Swing Alchemy Live Spectogram image file](https://user-images.githubusercontent.com/115159184/207052545-1bb8448a-ebd9-4fa9-a012-93ea37a763df.png)
-Spectogram 
+Spectrogram 
 ![Wk 9 Sultans of Swing Alchemy Live MFCC image file](https://user-images.githubusercontent.com/115159184/207052621-c6cc0f70-3a7c-4908-af47-53d2709845e7.png)
 Mel Frequency Cepstral Coefficients (MFCC) 
 ![Wk 9 Sultans of Swing Alchemy Live Chromagram image file](https://user-images.githubusercontent.com/115159184/207052675-f39591e1-bf7e-4a27-9d1b-544e9bb6c10f.png)
@@ -120,7 +120,7 @@ Chromagram
 
 DIRE STRAITS ROMEO AND JULIET  
 ![Wk 9 Dire Straits Romeo and Juliet 1980 Spectogram image file](https://user-images.githubusercontent.com/115159184/207052764-21b2cbde-035e-4b35-a68e-5fb98baccdc0.png)
-Spectogram 
+Spectrogram 
 ![Wk 9 Dire Straits Romeo and Juliet 1980 Mel Frequency Cepstral Coefficients (MFCC) image file](https://user-images.githubusercontent.com/115159184/207052811-04ce1592-75b3-4eb0-9252-ee2eeb23588f.png)
 Mel Frequency Cepstral Coefficients (MFCC) 
 ![Wk 9 Dire Straits Romeo and Juliet 1980 Chromagram image](https://user-images.githubusercontent.com/115159184/207052876-e128cc38-e941-424a-afdb-aff4e386a91a.png)
